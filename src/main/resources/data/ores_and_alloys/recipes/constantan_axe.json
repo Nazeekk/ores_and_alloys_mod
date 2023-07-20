@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "ores_and_alloys:constantan_ingot"
+    }
+  },
+  "result": {
+    "item": "ores_and_alloys:constantan_axe"
+  }
+}

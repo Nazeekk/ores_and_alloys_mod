@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ores_and_alloys:block/chromium_ore" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ores_and_alloys:chromium_ore"
+  },
+  "result": "ores_and_alloys:chromium_ingot",
+  "experience": 0.1,
+  "cookingtime":  100
+}

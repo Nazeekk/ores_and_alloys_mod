@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ores_and_alloys:item/nickel_axe"
+  }
+}

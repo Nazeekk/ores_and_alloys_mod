@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ores_and_alloys:block/aluminium_ore"
+  }
+}
